@@ -1,0 +1,75 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "language": "english",
+        "question": "Which sentence is grammatically correct: 'She don't like pizza.' or 'She doesn't like pizza.'?",
+        "options": ["She don't like pizza.", "She doesn't like pizza."],
+        "correctOption": "She doesn't like pizza."
+      },
+      {
+        "id": 2,
+        "language": "english",
+        "question": "What is the plural form of 'mouse'?",
+        "options": ["Mouses", "Mice", "Moo"],
+        "correctOption": "Mice"
+      },
+      {
+        "id": 3,
+        "language": "english",
+        "question": "Choose the correct verb form: 'He ________ to the store yesterday.'",
+        "options": ["Go", "Goes", "Went"],
+        "correctOption": "Went"
+      },
+      {
+        "id": 4,
+        "language": "english",
+        "question": "Identify the adverb in the sentence: 'She sings beautifully.'",
+        "options": ["She", "Sings", "Beautifully"],
+        "correctOption": "Beautifully"
+      },
+      {
+        "id": 5,
+        "language": "english",
+        "question": "What is the comparative form of 'good'?",
+        "options": ["Gooder", "Better", "More good"],
+        "correctOption": "Better"
+      },
+      {
+        "id": 6,
+        "language": "english",
+        "question": "Choose the correct form: 'I prefer coffee than tea.' or 'I prefer coffee to tea.'",
+        "options": ["I prefer coffee than tea.", "I prefer coffee to tea."],
+        "correctOption": "I prefer coffee to tea."
+      },
+      {
+        "id": 7,
+        "language": "english",
+        "question": "Which word is a conjunction in the sentence: 'He will come if you invite him.'?",
+        "options": ["He", "Will", "If"],
+        "correctOption": "If"
+      },
+      {
+        "id": 8,
+        "language": "english",
+        "question": "What is the past participle of 'eat'?",
+        "options": ["Eaten", "Ate", "Eating"],
+        "correctOption": "Eaten"
+      },
+      {
+        "id": 9,
+        "language": "english",
+        "question": "In the sentence 'The cat sat on the mat,' what is the preposition?",
+        "options": ["Cat", "Sat", "On"],
+        "correctOption": "On"
+      },
+      {
+        "id": 10,
+        "language": "english",
+        "question": "Which sentence is in the passive voice: 'The teacher praised the students.' or 'The students were praised by the teacher.'?",
+        "options": ["The teacher praised the students.", "The students were praised by the teacher."],
+        "correctOption": "The students were praised by the teacher."
+      }
+
+    ]
+  }
